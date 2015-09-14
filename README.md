@@ -9,4 +9,4 @@ npm install && make build && make server
 Installed globally:
 
 - npm
-- pyhton
+- python
